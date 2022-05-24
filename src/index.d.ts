@@ -1,4 +1,4 @@
-declare module "react-scroll-wheel-handler" {
+declare module "@atakanermis/react-scroll-wheel-handler" {
   import { Component, DetailedHTMLProps, HTMLAttributes } from "react";
 
   export type ReactScrollWheelHandlerWheelConfig = [
